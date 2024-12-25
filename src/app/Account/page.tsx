@@ -1,10 +1,9 @@
 import Navbar from  "@/app/components/SharedComponents/Navbar"
 
-import React, {useState} from 'react'
 import Footer from "@/app/Components/SharedComponents/Footer"
 import Header2 from "@/app/Components/SharedComponents/Header2"
-import Image from "next/image"
-import Link from "next/link"
+
+
 
 const page = () => {
     return (

@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import { RiDeleteBin6Line } from 'react-icons/ri'
 import Footer from "@/app/Components/SharedComponents/Footer"
 import Navbar from "@/app/components/SharedComponents/Navbar"
 import Header2 from "@/app/Components/SharedComponents/Header2";
